@@ -1,0 +1,4 @@
+[submodule "thiagoWebpage/public"]
+	path = thiagoWebpage/public
+	url = git@github.com:thraraujo/thraraujo.github.io.git
+	branch = main
