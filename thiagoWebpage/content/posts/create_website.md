@@ -131,6 +131,10 @@ hugo -D
 
 Now you can commit and push your modifications to github. If done correctly, our webpage already online --
 that's the Github pages magic. As a final detail, you might want to pull the modifications to the second 
-repo just to keep things syncronized. 
+repo just to keep things syncronized. I recommend the following order 
 
+    1. push ./repo_01/my_beautiful_website/public
+    2. push ./repo_01 
+    3. pull ./repo_02.github.io
 
+And that's it.
