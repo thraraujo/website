@@ -6,10 +6,10 @@ description: Curso de física básica
 math: true
 ---
 
-Nesse semestre, estou responsável pelo curso de física 1 para alunos de química. 
+Algumas notas para o curso de Física 1. 
 <!--more-->
 
 ## Aulas
 
-## Exames
+## Exercícios
 

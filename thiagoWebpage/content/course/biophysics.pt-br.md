@@ -15,9 +15,9 @@ series = ["Cursos de graduação"]
 aliases = ["biofísica"]
 +++
 
-Nesse semestre, ensinarei o curso de biofísica para o curso de Agronomia. 
+Notas de aulas para o curso de Biofísica.
 <!--more-->
 
 ## Aulas
 
-## Exames
+## Exercícios
