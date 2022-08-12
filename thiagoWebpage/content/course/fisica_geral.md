@@ -1,10 +1,10 @@
 +++
 author = "Thiago Araujo"
-title = "Biophysics"
+title = "General Physics"
 date = "2022-06-30"
-description = "Biophysics course."
+description = "General physics course."
 tags = [
-    "biophysics",
+    "general physics",
     "course",
 ]
 categories = [
@@ -12,7 +12,7 @@ categories = [
     "undergraduate",
 ]
 series = ["Undergraduate courses"]
-aliases = ["biophysics"]
+aliases = ["general physics"]
 +++
 
 __Portuguese only__
