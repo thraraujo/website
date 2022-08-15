@@ -1,15 +1,25 @@
 ---
 author: Thiago Araujo
 title: Física 1
-date: 2022-06-30
-description: Curso de física básica
+date: 2022-08-15
+description: Curso de física 1.
 math: true
 ---
 
-Algumas notas para o curso de Física 1. 
+Notas de física 1 para o curso de Matemática.
 <!--more-->
 
-## Aulas
+# Grupos
 
-## Exercícios
+! Como a turma tem um aluno que não está na lista de presença, farei um novo sorteio em breve.
+Os tópicos a serem discutidos serão: 
 
+1. Hidrodinâmica - Equação de Navier-Stokes 
+2. Termodinâmica - Formas Diferenciais em Termodinâmica
+3. Ondas - Análise de Fourier
+
+# Exercícios
+
+Os exercícios estão disponíveis no link a seguir: 
+
+[Física 1 - Matemática](https://drive.google.com/drive/folders/13G_NfYTIkcvKPnmVwQZyLv-vHuB_4AyD?usp=sharing)

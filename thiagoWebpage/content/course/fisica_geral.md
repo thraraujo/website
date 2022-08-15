@@ -1,7 +1,7 @@
 +++
 author = "Thiago Araujo"
 title = "General Physics"
-date = "2022-06-30"
+date = "2022-08-15"
 description = "General physics course."
 tags = [
     "general physics",

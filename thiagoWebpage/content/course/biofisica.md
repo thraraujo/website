@@ -1,8 +1,8 @@
 ---
 author: Thiago Araujo
-title: Physics 1
+title: Biophysics
 date: 2022-08-15
-description: Course on basic physics
+description: Course on biophysics
 math: true
 ---
 
