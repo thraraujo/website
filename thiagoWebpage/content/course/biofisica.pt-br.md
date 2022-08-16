@@ -21,7 +21,7 @@ Notas de aulas para o curso de biofísica para os cursos de Agronomia e Zootecni
 # Conteúdo
 
 1. [Agronomia](#agronomia)  
-2. [Zootecnia](http://localhost:1313/pt-br/course/biofisica/#zootecnia)
+2. [Zootecnia](#zootecnia)
 3. [Notas de Aulas](#notas-de-aulas--exercícios)
 4. [Outros Assuntos](#outros-assuntos)
 
