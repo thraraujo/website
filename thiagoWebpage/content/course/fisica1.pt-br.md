@@ -1,6 +1,6 @@
 ---
 author: Thiago Araujo
-title: Física 1
+title: Física 1 (Matemática)
 date: 2022-08-15
 description: Curso de física 1.
 math: true

@@ -1,6 +1,6 @@
 +++
 author = "Thiago Araujo"
-title = "Física Geral"
+title = "Física Geral (Química)"
 date = "2022-08-16"
 description = "Curso de física geral."
 tags = [
@@ -56,17 +56,19 @@ ANTONIO SOARES :: EDUARDA CARLOS DOS SANTOS :: ELIANE DE SOUZA SALUSTIANO :: GIA
 
 # Notas de Aulas & Exercícios 
 
-!! As notas de aula estão melhores e mais organizadas que as aulas. Alguns erros e confusões que ocorreram na aula serão corrigidos 
-nas notas. 
+Notas de aula e exercícios podem ser encontradas no link a seguir:
 
-+ [01 - Grandezas Físicas](https://drive.google.com/drive/folders/1edHie9A6WLYaJBuz77oh8tI1NeWUNYh5?usp=sharing) - Exercícios estão disponíveis 
-  no material anexado. Houve um erro na aula quando discutimos o decaimento radioativo (isso não muda o resultado final, muito menos 
-  as conclusões), mas nas notas estão corretas. A fonte para esse problema é o livro do Moyses -- a parte relevante do livro
-  também está anexada. O livro do Moysés tem o mesmo erro -- provavelmente um erro que ocorre quando físicos discutem química. 
-  Me perguntem na próxima aula qual erro é esse -- De toda forma, só notei esse erro por causa das perguntas em sala de aula Obrigado.
++ [Notas de aulas e exercícios](https://drive.google.com/drive/folders/1edHie9A6WLYaJBuz77oh8tI1NeWUNYh5?usp=sharing) 
 
 # Outros Assuntos 
 
-+ O script que usei para fazer o sorteio está no link a seguir: 
-  [script](https://github.com/thraraujo/study_groups/blob/main/groups.py)
++ O script que usei para fazer o sorteio está no link a seguir:
+ [script](https://github.com/thraraujo/study_groups/blob/main/groups.py)
 + Jogo: [Scale of the universe](https://www.crazygames.com/game/the-scale-of-the-universe); Vídeo: [Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA&t)
++ O livro do Nussenzveig pode ser econtrado no LibGen. O Atual link
+é o seguinte: 
+[Moyses Nussenzveig](https://libgen.is/search.php?req=Nussenzveig&open=0&res=25&view=simple&phrase=1&column=def)
++ O trabalho final pode ser __digitado__ no software da sua escolha. 
+Mas minhas sugestões são: LaTeX ou o LibreOffice. Algumas referências: 
+a) [Video Youtube - Latex](https://www.youtube.com/watch?v=Y1vdXYttLSA); 
+b) [LibreOffice](https://pt-br.libreoffice.org/)
