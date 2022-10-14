@@ -20,32 +20,20 @@ Notas de física geral para o curso de Química.
 
 # Conteúdo
 
-1. [Grupos](#grupos)
+1. [Ementa](#ementa)
 6. [Referências](#referências)
 7. [Notas de Aulas & Exercícios](#notas-de-aulas--exercícios)
 8. [Outros Assuntos](#outros-assuntos)
 
-# Grupos
+# Ementa
 
-###### Grupo 1 :: Óptica Geométrica  
-ANA RENATA DOS SANTOS QUIRINO :: EVA CRISTINA DOS SANTOS :: FABRICIO TENORIO DOS SANTOS :: GISLAYNE FIRMINO DE FARIAS 
-:: JUSSARA CAMILLE DOS SANTOS :: MILENA MARIA NAZARIO LESSA :: NAYARA BARBOSA DOS SANTOS :: RUBENS GABRIEL GOMES LOPES  
+Ementa do curso : 
 
-###### Grupo 2 :: Mecânica Newtoniana  
-EDSON JOSE DA SILVA :: GABRIEL FILIPE SILVA DE SOUZA :: IGOR SOUZA SANTOS LOPES :: MARIA JOSE DOS SANTOS SILVA 
-:: MARLLON NASCIMENTO DA SILVA :: MILENA ROSE SILVA SANTOS :: RAYARA LIMA SANTOS :: SIMONE AGRICIO ALVES  
-
-###### Grupo 3 :: Fenômenos Ondulatórios 
-ALICE VITORIA BEZERRA DOS SANTOS :: BRUNO DOS SANTOS :: EMILLY OTAVIANA XAVIER DA SILVA :: GISELE FAUSTINO SANTOS 
-:: INACIA DE LIMA SILVA :: JOSE LUCAS BEZERRA :: RAFAELA INACIO SANTOS 
-
-###### Grupo 4 :: Hidrodinâmica  
-ANA CASSIA FRANCA SILVA :: FATIMA GABRIELA DA SILVA :: FELIPE DE MORAIS SILVA :: IARA DE ARAUJO SILVA 
-:: JUSSIARA CORREIA DOS SANTOS :: MARIA EDUARDA CESAR BARBOSA :: THOMAS JEFFERSON TEIXEIRA DE ANDRADE  
-
-###### Grupo 5 :: Fenômenos Eletromagnéticos  
-ANTONIO SOARES :: EDUARDA CARLOS DOS SANTOS :: ELIANE DE SOUZA SALUSTIANO :: GIANCARLO SANTOS RENTE :: MARIA BRAZ DA SILVA 
-:: MARIA LUIZA DE ARAUJO ROCHA :: RODRIGO JUSTINO DOS SANTOS  
++ Fundamentos da mecânica newtoniana 
++ Aspectos da hidrodinâmica
++ Óptica 
++ Fenômenos ondulatórios 
++ Introdução aos fenômenos elétricos 
 
 # Referências 
 

@@ -9,14 +9,11 @@ math: true
 Notas de física 1 para o curso de Matemática.
 <!--more-->
 
-# Grupos
+# Ementa
 
-! Como a turma tem um aluno que não está na lista de presença, farei um novo sorteio em breve.
-Os tópicos a serem discutidos serão: 
-
-1. Hidrodinâmica - Equação de Navier-Stokes 
-2. Termodinâmica - Formas Diferenciais em Termodinâmica
-3. Ondas - Análise de Fourier
+1. Fundamentos da mecânica Newtoniana
+2. Fenômenos ondulatórios
+3. Análise de Fourier
 
 # Exercícios
 
