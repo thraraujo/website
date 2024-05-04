@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "Thiago Araujo"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Thiago's personal website"
 keywords = "blog,physicist,personal"
 info = ["Theoretical Physicist"] # I can add other lines with , "Mathematician wannabe"]
