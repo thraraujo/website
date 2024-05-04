@@ -2,3 +2,6 @@
 	path = thiagoWebpage/public
 	url = git@github.com:thraraujo/thraraujo.github.io.git
 	branch = main
+[submodule "hugo-coder"]
+	path = hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
