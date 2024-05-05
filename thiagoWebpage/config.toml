@@ -156,8 +156,8 @@ url = "https://scholar.google.com/citations?user=KDTg_D8AAAAJ&hl=en"
 # rel = "alternate"
 # type = "application/rss+xml"
 
-[languages.en]
-languageName = ":uk:"
+# [languages.en]
+# languageName = ":uk:"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -176,35 +176,35 @@ url = "research/"
 
 [[languages.en.menu.main]]
 name = "Teaching"
-weight = 5
-url = "course/"
+weight = 4
+url = "notes/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "Thiago Araujo"
-
-[languages.pt-br.params]
-author = "Thiago Araujo"
-info = "Físico teórico"
-description = "Página pessoal"
-keywords = "blog,físico,pessoal"
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-weight = 1
-url = "about/"
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
-name = "Pesquisa"
-weight = 3
-url = "research/"
-
-[[languages.pt-br.menu.main]]
-name = "Ensino"
-weight = 5
-url = "course/"
+# [languages.pt-br]
+# languageName = ":brazil:"
+# title = "Thiago Araujo"
+# 
+# [languages.pt-br.params]
+# author = "Thiago Araujo"
+# info = "Físico teórico"
+# description = "Página pessoal"
+# keywords = "blog,físico,pessoal"
+# 
+# [[languages.pt-br.menu.main]]
+# name = "Sobre"
+# weight = 1
+# url = "about/"
+# 
+# [[languages.pt-br.menu.main]]
+# name = "Blog"
+# weight = 2
+# url = "posts/"
+# 
+# [[languages.pt-br.menu.main]]
+# name = "Pesquisa"
+# weight = 3
+# url = "research/"
+# 
+# [[languages.pt-br.menu.main]]
+# name = "Ensino"
+# weight = 5
+# url = "course/"
