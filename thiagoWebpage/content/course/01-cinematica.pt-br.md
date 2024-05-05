@@ -1,6 +1,6 @@
 +++
 author = "Thiago Araujo"
-title = "Cinemática"
+title = "Cinemática em 1D 2 3D"
 date = "2024-05-05"
 description = "Notas de aula de cinemática"
 math = true
