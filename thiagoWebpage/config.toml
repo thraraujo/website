@@ -41,6 +41,7 @@ customCSS = []
 customSCSS = []
 # Custom JS
 customJS = []
+math = true
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]
