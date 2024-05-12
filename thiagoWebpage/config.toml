@@ -174,10 +174,10 @@ name = "Research"
 weight = 3
 url = "research/"
 
-[[languages.en.menu.main]]
-name = "Teaching"
-weight = 4
-url = "notes/"
+# [[languages.en.menu.main]]
+# name = "Teaching"
+# weight = 4
+# url = "notes/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
